@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-heroku-binding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enesGithubUser/nodejs-heroku-binding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enesGithubUser/nodejs-heroku-binding/issues"
+  },
+  "homepage": "https://github.com/enesGithubUser/nodejs-heroku-binding#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
